@@ -1,0 +1,5 @@
+we will be creating a tree representation of a JavaFX GUI similar to that of SceneBuilder 
+We will only consider a restricted subset of JavaFX components: 
+Buttons, TextAreas (text input), Labels (text output), HBoxes and VBoxes. 
+Our buttons and labels will have text, and our text areas will have prompt text 
+You must be able to read a GUI input file, modify the tree, print the results, and write to a new file.
