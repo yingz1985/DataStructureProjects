@@ -1,0 +1,9 @@
+<country>
+<name>Suffolkia</name>
+<cities>
+["Huntingtopolis","Saint Jim","Rocky Stream","Peer Dark","Belt Air","Smith Heaven","North Hamtown"]
+</cities>
+<roads>
+["Huntingtopolis,Saint Jim,17","Huntingtopolis,Belt Air,19","Huntingtopolis,Rocky Stream,18","Huntingtopolis,Peer Dark,6","Saint Jim,Rocky Stream,6","Saint Jim,Belt Air,8","Saint Jim,Peer Dark,11","Smith Heaven,Peer Dark,10","Rocky Stream,Belt Air,2","Rocky Stream,Smith Heaven,4","Smith Heaven,Belt Air,8","Belt Air,North Hamtown,38","Smith Heaven,North Hamtown,40"]
+</roads>
+</country>
