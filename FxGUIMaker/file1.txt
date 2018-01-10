@@ -1,0 +1,25 @@
+0 AnchorPane
+0-0 VBox
+0-0-0 HBox
+0-0-0-0 Label Welcome to the Bronx Zoo!
+0-0-0-1 Button Create New Dog
+0-0-0-2 Button Save Dog
+0-0-0-3 Button Get Cat
+0-0-0-4 Button Get chihuahua
+0-0-0-5 Button Get Lizard
+0-0-0-6 Button Get Snake
+0-0-0-7 Button Get Ant
+0-0-0-8 Button Save Animals
+0-0-0-9 Button Quit and not get Animal
+0-0-1 TextArea Enter the Name of the Animal
+0-0-2 HBox
+0-0-2-0 Button Get a Animal Lawyer
+0-0-2-1 Button Random Name
+0-0-2-2 Button Make it John
+0-0-2-3 VBox
+0-0-2-3-0 Button Jump
+0-0-2-3-1 Button Roll
+0-0-2-3-2 Button Run!
+0-0-3 HBox
+0-0-3-0 Label Submit Choices
+0-0-3-1 Button Submit!
