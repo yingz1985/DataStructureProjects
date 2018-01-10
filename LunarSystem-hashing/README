@@ -1,0 +1,9 @@
+Lunar System allows the user to interact with a database of Students
+
+Provides the user with a menu-based interface that allows them to add, remove, and edit Students, as well as their courses. 
+Users can either enter as the administrator when logging in with the user name: "REGISTRAR" or "WebID" to register 
+students into the system( NOTE*: you can only log in as a student once the administrator registers your name)
+or enter as a student to manipulate his/her courses.
+
+The database can be either saved(data is saved and reloaded the next time system runs) or not saved(all previous data deleted, 
+and the system will start over again the next time the system runs). 
